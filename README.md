@@ -1,5 +1,5 @@
 #  About Me:
-Student in Saint-Petersburg Polytechnic University<br>Learning ML, AI & NLP<br>20 y.o.
+Student in Saint-Petersburg Polytechnic University<br>Learning ML, AI & NLP<br>21 y.o.
 
 
 ## Socials:
