@@ -3,4 +3,4 @@ Student in Saint-Petersburg Polytechnic University<br>Learning ML, AI & NLP<br>2
 
 
 ## Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vklementieva220505@gmail.
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vklementieva220505@gmail.com)
